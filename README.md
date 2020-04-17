@@ -1,7 +1,8 @@
 # Retrofit Authorization
+[![Android Weekly](https://androidweekly.net/issues/issue-409/badge)](https://androidweekly.net/issues/issue-403)
 
 This is for the blog [Token Authorization with Retrofit | Android OAuth 2.0](https://medium.com/@tirgei/token-authorization-with-retrofit-android-oauth-2-0-747995c79720) 
-and shows how to use Okhttp Interceptor to add OAuth 2.0 Authorization token to network requests using retrofit
+and shows how to use Okhttp Interceptor to add OAuth 2.0 Authorization token to network requests using retrofit. The blog post also got featured on the popular android newsletter, [Android Weekly](https://androidweekly.net/) [Issue 403](https://androidweekly.net/issues/issue-403).
 
 ## Features
 - Kotlin
